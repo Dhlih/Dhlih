@@ -11,7 +11,12 @@ Welcome to my GitHub profile. I'm a passionate developer who loves learning new 
 
 ## 📈 GitHub Stats
 
-![Ifad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhlih&show_icons=true&theme=radical)  
+<p align="left">
+<a href="https://github.com/Dhlih">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhlih&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhlih&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 ## 🔗 Let's Connect!
 
