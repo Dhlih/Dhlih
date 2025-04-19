@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ifad!
 
-<!--
-**Dhlih/Dhlih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a passionate developer who loves learning new things.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 HTML, CSS, JavaScript, Python  
+- ⚛️ React, Tailwind CSS  
+- 🌐 Node.js, Express.js, MongoDB  
+- 🛠️ Git, GitHub, VS Code
+
+## 🔗 Let's Connect!
+
+- 🌐 [My Website](https://ifadyusuf.vercel.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-fadhlih-firmansyah)
