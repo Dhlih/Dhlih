@@ -11,8 +11,8 @@ Welcome to my GitHub profile. I'm a passionate developer who loves learning new 
 
 ## 📈 GitHub Stats
 
-![Ifad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifadprog&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifadprog&layout=compact&theme=radical)
+![Ifad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhlih&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhlih&layout=compact&theme=radical)
 
 ## 🔗 Let's Connect!
 
