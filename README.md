@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a passionate developer who loves learning new 
 ## 🚀 Tech Stack
 
 - 💻 HTML, CSS, JavaScript, Python  
-- ⚛️ React, Tailwind CSS  
+- ⚛️ React, Tailwind CSS, NextJS
 - 🌐 Node.js, Express.js, MongoDB  
 - 🛠️ Git, GitHub, VS Code
 
