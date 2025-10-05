@@ -6,8 +6,8 @@ Welcome to my GitHub profile. I'm a passionate developer who loves learning new 
 
 - 💻 HTML, CSS, JavaScript, Python  
 - ⚛️ React, Tailwind CSS, NextJS
-- 🌐 Node.js, Express.js, MongoDB  
-- 🛠️ Git, GitHub, VS Code
+- 🌐 Node.js, Express.js, MongoDB, MySQL
+- 🛠️ Git, GitHub 
 
 ## 📈 GitHub Stats
 
