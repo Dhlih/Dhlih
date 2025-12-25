@@ -34,7 +34,6 @@ I'm a passionate developer who loves building things, exploring new technologies
 ## 📊 GitHub Stats & Coding Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhlih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br/><br/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhlih&layout=compact&theme=tokyonight"/><br/><br/>
   <a href="https://www.codewars.com/users/Dhlih">
     <img src="https://www.codewars.com/users/Dhlih/badges/large" alt="Codewars Badge" />
